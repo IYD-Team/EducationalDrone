@@ -1,6 +1,6 @@
 ﻿module DroneControlServer
 
-
+let mutable flightController = new FlightController.FlightController()
 
 // Scrach からデータを受信するためのHttpサーバー
 

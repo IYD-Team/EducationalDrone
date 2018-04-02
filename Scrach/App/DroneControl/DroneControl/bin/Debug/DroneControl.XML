@@ -2,5 +2,10 @@
 <doc>
 <assembly><name>DroneControl</name></assembly>
 <members>
+<member name="M:FlightController.FlightController.Connect(System.String)">
+<summary>
+ Connect Serial on Arduino.
+</summary>
+</member>
 </members>
 </doc>

@@ -2,14 +2,17 @@
   "extensionName": "Drone Control",
   "extensionPort": 5410,
   "blockSpecs": [
-    [ " ", "前に進め!", "MoveForward", "", "" ],
-    [ " ", "後ろへ下がれ!", "MoveBackward", "", "" ],
-    [ " ", "上昇せよ!", "MoveUp", "", "" ],
-    [ " ", "下降せよ!", "MoveDown", "", "" ],
-    [ " ", "右にずれろ!", "MoveRight", "", "" ],
-    [ " ", "左にずれろ!", "MoveLeft", "", "" ],
+    [ " ", "離陸", "TakeOff" ],
+    [ " ", "着陸", "Land" ],
+    [ " ", "ホバリング", "Hovering"],
+    [ " ", "前に %d m進め!", "MoveForward", 1 ],
+    [ " ", "後ろへ %d m下がれ!", "MoveBackward", 1 ],
+    [ " ", "%d m上昇せよ!", "MoveUp", 1 ],
+    [ " ", "%d m下降せよ!", "MoveDown", 1 ],
+    [ " ", "右に %d mずれろ!", "MoveRight", 1 ],
+    [ " ", "左に %d mずれろ!", "MoveLeft", 1 ],
     [ " ", "右に %m.angleValues 度回転せよ!", "RotateRight", 90 ],
-    [ "", "左に %m.angleValues 度回転せよ!", "RotateLeft", 90 ]
+    [ " ", "左に %m.angleValues 度回転せよ!", "RotateLeft", 90 ]
 
     //[ " ", "INPUT %m.digitalPinNames mode %m.inputPinModes", "setMode", "D2", "PULLUP" ],
     //[ " ", "OUTPUT %m.digitalPinNames value %m.digitalValues", "digitalWrite", "D2", 0 ],

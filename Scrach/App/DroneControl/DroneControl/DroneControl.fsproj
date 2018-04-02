@@ -81,8 +81,8 @@
     <Compile Include="AssemblyInfo.fs" />
     <None Include="App.config" />
     <Content Include="packages.config" />
-    <Compile Include="DroneControlServer.fs" />
     <Compile Include="FlightController.fs" />
+    <Compile Include="DroneControlServer.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <ItemGroup>

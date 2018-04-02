@@ -9,11 +9,14 @@ open System
 let main argv = 
     let port = 
         if ( argv.Length = 0 ) then
-            "COM3"
+            "COM6"
         else
             argv.[0]
 
     printfn "Start .NET DroneControl Server"
+
+    flightController.Connect(port)
+    flightController.Open()
     //let i = 0
     Server(5410)
     
