@@ -1,0 +1,8 @@
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\bin\Release\DroneControl.exe.config
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\bin\Release\DroneControl.XML
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\bin\Release\DroneControl.exe
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\bin\Release\DroneControl.pdb
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\bin\Release\System.ValueTuple.dll
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\obj\Release\DroneControl.fsproj.CopyComplete
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\obj\Release\DroneControl.exe
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\Test\App\DroneControl\DroneControl\obj\Release\DroneControl.pdb

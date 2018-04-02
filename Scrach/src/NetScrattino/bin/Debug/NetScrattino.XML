@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>NetScrattino</name></assembly>
+<members>
+<member name="M:FirmataNET.Arduino.Connect(System.String)">
+<summary>
+ Connect Serial on Arduino.
+</summary>
+</member>
+<member name="T:FirmataNET.Arduino">
+<summary>
+ Firmata on Arduino class
+ refer http://firmata.org/wiki/Protocol
+</summary>
+</member>
+</members>
+</doc>

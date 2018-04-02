@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DroneControl", "DroneControl\DroneControl.fsproj", "{E3249D11-F0CE-4AE2-ACFB-322362672BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Debug|x64.ActiveCfg = Debug|x64
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Debug|x64.Build.0 = Debug|x64
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Release|x64.ActiveCfg = Release|x64
+		{E3249D11-F0CE-4AE2-ACFB-322362672BDA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F315EF1-8FEA-4B0F-AC6F-673205E5789E}
+	EndGlobalSection
+EndGlobal

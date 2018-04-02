@@ -1,0 +1,12 @@
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\NetScrattino.exe.config
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\NetScrattino.XML
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\NetScrattino.exe
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\NetScrattino.pdb
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\FSharp.Core.dll
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\System.ValueTuple.dll
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\FSharp.Core.xml
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\obj\Debug\NetScrattino.fsprojResolveAssemblyReference.cache
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\obj\Debug\NetScrattino.fsproj.CopyComplete
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\obj\Debug\NetScrattino.exe
+C:\Users\onete\OneDrive\Documents\OsakaUniversity\サークル・部活\IYD\Scratch\NetScrattino-master\src\NetScrattino\obj\Debug\NetScrattino.pdb
